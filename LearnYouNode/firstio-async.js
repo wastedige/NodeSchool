@@ -13,3 +13,5 @@ function countOutput() {
 }
 
 readlines(countOutput);
+
+// https://github.com/maxogden/art-of-node#callbacks
